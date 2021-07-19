@@ -1,0 +1,250 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.hero{
+    height: 100vh;
+    background-image: linear-gradient(to right, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(../Images/nurse1.jpg);
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+    position: relative;
+    
+}.nav-bar{
+    display: flex;
+    padding: 40px 120px;
+}
+.nav-logo{
+    width: 100px;
+}
+.nav-links{
+    flex: 1;
+    
+}
+.nav-links ul{
+    margin-left:50px ;
+    float: right;
+}
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+.nav-links a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+}
+.nav-links ul li::after{
+    content:'';
+    width: 0%;
+    height: 2px;
+    background: yellow;
+    display: block;
+    margin: auto;
+    transition: .5s;
+}
+.nav-links ul li:hover:after{    
+    width: 100%;
+
+}
+.btn a{
+    color: black;
+    text-decoration: none;
+}
+.btn{
+    padding: 10px 20px;
+    background: yellow;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 10px;
+    
+}
+.nav-links .btn{
+    float: right;
+    
+}
+.banner-title{
+    margin:80px 130px ;
+    color: #fff;
+}
+.banner-title h1{
+    font-size: 64px;
+    margin-bottom: 30px;
+}
+.banner-title h1 span{
+    color: yellow;
+}
+.About-us h1{
+    text-align: center;
+    font-weight: 100;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+.about{
+    margin-top: 5%;
+    display: flex;
+}
+.img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.our-offers h1{
+    font-size: 50px;
+    font-family: helvetica;
+    text-align: center;
+    margin-top: 5%;
+}
+.animation{
+    height: 80%;
+    width: 80%;
+}
+.course{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.About-us p{
+    color: #777;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.course-col{
+    flex-basis: 31%;
+    background: #fff9b7;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+h3{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.course-col:hover{
+    box-shadow:0 0 20px 0px rgba(0,0,0,0.2) ;
+}
+h2{
+    margin-top: 5%;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+/* .background-image
+    min-height: 100vh;
+width: 100%;
+background-image: linear-gradient(to right, rgba(255, 238, 7, 0.8), rgba(251, 255, 20, 0.8)), url(../IMAGES/picc_files/img-2\(2\).jpg);;
+background-position: center;
+background-size: cover;
+position: absolute;
+margin-top: 0%; 
+ */
+.container{
+    width: 100%;
+    height: 100vh;
+    font-family: sans-serif;
+    background: rgb(187, 187, 245);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.we{
+    display: flex;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 40px;
+    margin-top: 7%;
+    margin-left: 1%;
+}
+.hero-input{
+    border: 1px solid;
+    border-color:rgb(219, 217, 217);
+   height: 90px;
+    width: 190px;
+    border-left: none;
+    border-right: none;
+}
+.form2{
+   margin-left: 60%;
+   margin-top: -15%;
+}
+.hero-input2{
+    border: 1px solid;
+    border-color:rgb(219, 217, 217);
+   height: 90px;
+    width: 190px;
+    border-left: none;
+    border-right: none;
+    margin-left: 5%;
+}
+.descript{
+    border: 1px solid;
+    border-color:rgb(219, 217, 217);
+    height: 150px;
+    width: 190px;
+    border-left: none;
+    border-right: none;
+    margin-top: 10%;
+}
+
+.form2 p{
+    font-size: 25px;
+   background-color: red;
+    height:25px;
+    width: 150px;
+    padding-left: 10px;
+    margin-left: 5%;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    transition: 1s;
+    margin-top: 1%;
+}
+.form2 a{
+    text-decoration: none;
+    color: white;
+}
+.form2 a p:hover{
+    background-color: red;
+    color: white;
+}
+.bio{
+    margin-top: 7%;
+    display: flex;
+}
+.bio h2{
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Lobster', cursive;
+}
+.bio1{
+    display: flex;
+   margin: auto;
+   justify-content: space-between;
+}
+.bio2 h3{
+    text-align: left;
+}
+.bio2 svg{
+    background-color: black;
+   fill: white;
+    border-radius: 50%;
+    padding: 1%;
+}
