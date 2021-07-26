@@ -148,7 +148,7 @@
             <div class="hero">
                 <div class="nav-bar">
                     <div class="nav-logo">
-                        <img src="./Images/nurselogo.jpg" class="nav-logo">
+                        <img src="./images/nurselogo.jpg" class="nav-logo">
                     </div>
                     <div class="nav-links">
                         <button type="buutton" class="btn"><a href="../HTML/neweb.html">SIGN UP</a></button>
@@ -173,7 +173,7 @@
                     <h1>ABOUT US</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quo libero autem iure<br> totam cumque, accusantium dignissimos, possimus quis <br>laboriosam cupiditate. Eos ratione tenetur vitae perferendis, reprehenderit<br> rerum non fugiat. Voluptatum provident quaerat recusandae eos! Tenetur incidunt, voluptates, qui velit<br> impedit asperiores expedita odit nam vitae totam et repudiandae<br> exercitationem. Perferendis est repellat, saepe aperiam ex dignissimos<br> soluta nihil quidem, voluptate eveniet eum odit. Dolore facilis doloremque fugiat soluta esse<br> aliquid velit nesciunt itaque labore omnis delectus minus<br> sapiente, quaerat necessitatibus, architecto dolorem corrupti.<br> Nemo doloribus provident ab possimus laboriosam neque, vero qui<br> atque molestias inventore recusandae alias consequatur voluptates.</p> 
                 </div>
-                <img src="./Images/animation1.jpg" class="animation">
+                <img src="./images/animation1.jpg" class="animation">
             </section>
             <div class="middle">
                <h1>Covid-19 Resources</h1>
@@ -203,7 +203,7 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, commodi.</p>
             <div class="row">
                 <div class="course-col">
-                    <img src="./Images/pointer 2.jpg">
+                    <img src="./images/pointer 2.jpg">
                 </div>
                 <div class="course-col">
                     <h3>Intermediate</h3>
@@ -223,7 +223,7 @@
       
         <div class="imge">
             <h2>At Niks health center our core factor is to satisfy and help our patients</h2>
-            <img src="./Images/hospital3.jpg">
+            <img src="./images/hospital3.jpg">
         </div>  
         <div class="form">
             <input type="text" class="hero-input" placeholder="Name">
@@ -265,19 +265,19 @@
             </div>
             <div class="location-images">
                 <div class="location-img">
-                    <img src="./Images/clinic 1.webp" class="locate-img" alt="">
+                    <img src="./images/clinic 1.webp" class="locate-img" alt="">
                     <h2>Niks healthcenter at ottaway</h2>
                 </div>
                 <div class="location-img">
-                    <img src="./Images/clinic 2.webp" class="locate-img" alt="">
+                    <img src="./images/clinic 2.webp" class="locate-img" alt="">
                     <h2>Niks healthcenter at Montana</h2>
                 </div>
                 <div class="location-img">
-                    <img src="./Images/clinic 3.webp" class="locate-img" alt="">
+                    <img src="./images/clinic 3.webp" class="locate-img" alt="">
                     <h2>Niks healthcenter at Ojota</h2>
                 </div>
                 <div class="location-img">
-                    <img src="./Images/clinic 4.webp" class="locate-img" alt="">
+                    <img src="./images/clinic 4.webp" class="locate-img" alt="">
                     <h2>Niks healthcenter at ikeja</h2>
                 </div>
             </div>
@@ -293,9 +293,9 @@
             <section class="conclusionContainer">
                 <section class="child1">
                     <div class="div1">
-                        <img src="./Images/nurselogo.jpg" alt="" class="logo-jpg" >
+                        <img src="./images/nurselogo.jpg" alt="" class="logo-jpg" >
                         <p>Our Vision – We strive to be a leader of healthcare<br> innovation that delivers the highest quality care while<br> providing exceptional patient experiences in a modern<br> and inviting environment.  </p>
-                   <img src="./Images/Nurse logo2.png" alt="">
+                   <img src="./images/Nurse logo2.png" alt="">
                     </div>
                     <div class="div2">
                         <h2>Services And Treatments</h2>
