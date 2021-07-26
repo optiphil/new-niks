@@ -95,7 +95,7 @@
                 <div class="slideshow-container">
                 
                 <div class="mySlides fade">
-                  <img src="./Images/nurse1.jpg" style="width:100%">
+                  <img src="./images/nurse1.jpg" style="width:100%">
                 <div class="newtext">
                   <h2>Reclaim The Outdoors</h2>
                   <p>Test your allergies to take a hike! with the<br>latest allergy testing technology.Niks care<br>is here to treat allergy symptoms that range<br>from mildly annoying to life threatnening</p>
@@ -103,12 +103,12 @@
                 </div>
                 
                 <div class="mySlides fade">
-                  <img src="./Images/nurses2.jpg" style="width:100%">
+                  <img src="./images/nurses2.jpg" style="width:100%">
                   <div class="text"></div>
                 </div>
                 
                 <div class="mySlides fade">
-                  <img src="./Images/health.jpg" style="width:100%">
+                  <img src="./images/health.jpg" style="width:100%">
                 </div>
                 
                 </div>
